@@ -1,0 +1,51 @@
+[
+	{
+	"CarMake":"Fiat",
+	"CarModel":"Brava",
+	"CarColour":"AntiqueWhite",
+	"CarPrice":"4lakh",
+	"CarManufactureYear":"2010"
+	}
+   ,{
+  	"CarMake":"Chevrolet",
+	"CarModel":"Cruze",
+	"CarColour":"HoneyDew",
+	"CarPrice":"5lakh",
+	"CarManufactureYear":"2009"
+   }
+  ,{	"CarMake":"Honda",
+	"CarModel":"Civic",
+	"CarColour":"LavenderBlush",
+	"CarPrice":"6lakh",
+	"CarManufactureYear":"2012"
+  },
+{
+	"CarMake":"Mitsubishi",
+	"CarModel":"Lancer",
+	"CarColour":"SpringGreen",
+	"CarPrice":"7lakh",
+	"CarManufactureYear":"2013"
+},
+{
+	"CarMake":"Plymouth",
+	"CarModel":"Laser",
+	"CarColour":"SlateGray",
+	"CarPrice":"9lakh",
+	"CarManufactureYear":"2011"
+},
+{
+	"CarMake":"Renault",
+	"CarModel":"Fuego",
+	"CarColour":"AliceBlue",
+	"CarPrice":"8lakh",
+	"CarManufactureYear":"2014"
+},
+{
+	"CarMake":"Toyota",
+	"CarPrice":"10lakh",
+	"CarModel":"Corolla",
+	"CarColour":"RosyBrown",
+	"CarManufactureYear":"2013"
+}
+
+]
